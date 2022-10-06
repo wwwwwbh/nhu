@@ -1,0 +1,22 @@
+﻿{
+    "buttons": {
+		"pageLength": "显示 %d 行",
+        "excel":"<i class='fa fa-file-excel-o'></i>&nbsp;导出Excel"
+	},
+	"sProcessing":"正在处理",
+    "sSearch":"搜索&nbsp;：",
+    "sLengthMenu": "每页 _MENU_ 条记录",
+    "sZeroRecords": "没有找到记录",
+    "sInfo": "第 _PAGE_ 页 ( 共 _PAGES_ 页 )",
+    "sInfoEmpty": "无记录",
+    "sInfoFiltered": "(从 _MAX_ 条记录过滤)",
+    "sInfoPostFix":"",
+    "sLoadingRecords":"正在加载",
+    "sEmptyTable":"没有数据",
+    "oPaginate":{
+        "sFirst":"首页",
+        "sPrevious":"上一页",
+        "sNext":"下一页",
+        "sLast":"末页"
+    }
+}
